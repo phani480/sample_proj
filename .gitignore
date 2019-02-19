@@ -1,0 +1,8 @@
+test-report.html
+target/
+*.retry
+*.swap
+**/*.jar
+abc.xml
+
+test.json
