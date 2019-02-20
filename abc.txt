@@ -2,3 +2,4 @@ first time changin
 sdasd.
 added abcd
 amend
+all readyy taken stash -trying to genarate conflicts
